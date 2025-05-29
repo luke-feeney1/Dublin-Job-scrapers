@@ -64,7 +64,7 @@ page_count = 0
 max_pages = 5
 
 while page_count < max_pages:
-    print(f"\n🔍 Page {page_count + 1} scraping...")
+    print(f"\n Page {page_count + 1} scraping...")
     search = GoogleSearch(params)
     results = search.get_dict()
     
@@ -73,7 +73,7 @@ while page_count < max_pages:
         break
     
     jobs = results.get("jobs_results", [])
-    print(f"➡️ Got {len(jobs)} jobs.")
+    print(f"➡Got {len(jobs)} jobs.")
     
     for job in jobs:
         title = job.get("title", "")
@@ -88,7 +88,7 @@ while page_count < max_pages:
     
     next_token = results.get("serpapi_pagination", {}).get("next_page_token")
     if not next_token:
-        print("🚫 No more pages.")
+        print("No more pages.")
         break
     
     params["next_page_token"] = next_token
@@ -107,10 +107,10 @@ else:
     df.to_csv("dublin_jobs_top30.csv", index=False, encoding="utf-8-sig")
     df.to_excel("dublin_jobs_top30.xlsx", index=False, engine='openpyxl')
     
-    print(f"✅ Saved {len(df)} jobs to dublin_jobs_top30.csv")
-    print(f"✅ Saved {len(df)} jobs to dublin_jobs_top30.xlsx")
+    print(f"Saved {len(df)} jobs to dublin_jobs_top30.csv")
+    print(f"Saved {len(df)} jobs to dublin_jobs_top30.xlsx")
 
 with open("dublin_jobs_raw_results.json", "w", encoding="utf-8") as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
-print("✅ Saved raw results to dublin_jobs_raw_results.json")
+print("Saved raw results to dublin_jobs_raw_results.json")
