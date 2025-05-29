@@ -37,7 +37,7 @@ What it does:
 Searches for "Software Engineer" jobs in Dublin, Ireland
 Scrapes up to 5 pages of results
 Filters by keywords: ["Software Engineer", "Software Developer", "Graduate Software Engineer"]
-Saves top 30 jobs by recency
+Saves top 30 jobs by recent posting
 
 Output Files:
 
