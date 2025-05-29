@@ -1,0 +1,46 @@
+Dublin Job Scrapers 🇮🇪
+A Python web scraper that finds software engineering jobs in Dublin, Ireland using the SerpApi Google Jobs engine.
+Features ✨
+
+🔍 Scrapes Google Jobs for software engineering positions
+📊 Exports results to both CSV and Excel formats
+🎯 Filters jobs by relevant keywords
+📅 Parses job posting dates
+🔗 Includes direct application links
+📄 Saves raw JSON data for further analysis
+
+Installation 🚀
+
+Clone the repository
+bashgit clone https://github.com/luke-feeney1/Dublin-Job-scrapers.git
+cd Dublin-Job-scrapers
+
+Install required packages
+bashpip install google-search-results pandas python-dotenv openpyxl
+
+Set up environment variables
+Create a .env file in the project root:
+envAPI_KEY=your_serpapi_key_here
+
+Get SerpApi Key
+
+Sign up at serpapi.com
+Get your free API key (100 searches/month)
+Add it to your .env file
+
+
+
+Basic usage:
+In the command line, enter the following: python dublin_jobs.py
+
+What it does:
+Searches for "Software Engineer" jobs in Dublin, Ireland
+Scrapes up to 5 pages of results
+Filters by keywords: ["Software Engineer", "Software Developer", "Graduate Software Engineer"]
+Saves top 30 jobs by recency
+
+Output Files:
+
+dublin_jobs_top30.csv - Job listings in CSV format
+dublin_jobs_top30.xlsx - Job listings in Excel format
+dublin_jobs_raw_results.json - Raw API response data
