@@ -1,0 +1,334 @@
+{
+  "search_metadata": {
+    "id": "683875d6d2d7409b8dc9e7a8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a91af33607859f51/683875d6d2d7409b8dc9e7a8.json",
+    "created_at": "2025-05-29 14:57:26 UTC",
+    "processed_at": "2025-05-29 14:57:26 UTC",
+    "google_jobs_url": "https://www.google.com/async/callback:550?q=Software+Engineer&uule=w+CAIQICIVQ291bnR5IER1YmxpbixJcmVsYW5k&hl=en&udm=8&fc=EuICCqICQUxrdF92RkstVTRhdUpaNWZIUXUwdEN1Njl1dzYxN1pBVmxSLWtSME1VWkJoUVd1Ty1zakVsUkNIWHhJYzY2ODV4cmFrczF6MUYxRWVZSDJyR0g2aWVGdDlsMks4SkhFd2VsZHpxVXN6ZFk0NzVKRzFLdWswLVBnUC12aUdsZUtvYVJYc1NNVlZlUDlrRlpyNEx3UkljSk5BRFJoR2d6aVNrUVFLU09JWTA1bC1zVWtURk9JWElqQTVnV0VicVdQOG0tTXJQSUFfNWsyc0UtZDl5U3J0ckV5Y2RnY1R0dk5tMjZIMng4ajNpTHpQZFRpMHItTjBMLXhrUHduRGU1RjBfb0t1Yy1YSzRNOExyc0x6ZDZVMm8yLWVuUmxsc0htRlESFzFIVTRhSUMxSmRYZ2tQSVA2cHUtMEFZGiJBRk1BR0dvNFRyOUc4UkVWVThUZUFid1NBVW9LbGJYVUxB&fcv=3&async=_fmt:prog,_id:fc_2",
+    "raw_html_file": "https://serpapi.com/searches/a91af33607859f51/683875d6d2d7409b8dc9e7a8.html",
+    "prettify_html_file": "https://serpapi.com/searches/a91af33607859f51/683875d6d2d7409b8dc9e7a8.prettify",
+    "total_time_taken": 1.24
+  },
+  "search_parameters": {
+    "q": "Software Engineer",
+    "engine": "google_jobs",
+    "location_requested": "Dublin, Ireland",
+    "location_used": "County Dublin,Ireland",
+    "google_domain": "google.com",
+    "hl": "en",
+    "next_page_token": "eyJmYyI6IkV1SUNDcUlDUVV4cmRGOTJSa3N0VlRSaGRVcGFOV1pJVVhVd2RFTjFOamwxZHpZeE4xcEJWbXhTTFd0U01FMVZXa0pvVVZkMVR5MXpha1ZzVWtOSVdIaEpZelkyT0RWNGNtRnJjekY2TVVZeFJXVlpTREp5UjBnMmFXVkdkRGxzTWtzNFNraEZkMlZzWkhweFZYTjZaRmswTnpWS1J6RkxkV3N3TFZCblVDMTJhVWRzWlV0dllWSlljMU5OVmxabFVEbHJSbHB5TkV4M1VrbGpTazVCUkZKb1IyZDZhVk5yVVZGTFUwOUpXVEExYkMxelZXdFVSazlKV0VscVFUVm5WMFZpY1ZkUU9HMHRUWEpRU1VGZk5Xc3ljMFV0WkRsNVUzSjBja1Y1WTJSblkxUjBkazV0TWpaSU1uZzRhak5wVEhwUVpGUnBNSEl0VGpCTUxYaHJVSGR1UkdVMVJqQmZiMHQxWXkxWVN6Uk5PRXh5YzB4NlpEWlZNbTh5TFdWdVVteHNjMGh0UmxFU0Z6RklWVFJoU1VNeFNtUllaMnRRU1ZBMmNIVXRNRUZaR2lKQlJrMUJSMGR2TkZSeU9VYzRVa1ZXVlRoVVpVRmlkMU5CVlc5TGJHSllWVXhCIiwiZmN2IjoiMyJ9"
+  },
+  "jobs_results": [
+    {
+      "title": "Software Development Engineer in Test",
+      "company_name": "Rue Gilt Groupe",
+      "location": "Dublin, Ireland",
+      "via": "Rue Gilt Groupe",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=qCnJB79MZhzXeGVKAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNMQ7CMAwAQLH2CUwWI4IGIbEAY1EFI7BXSTFpUGpHsQv9DV-FLrde8Z0Vxxs_9WMzQoVvjJx6JIUT-UCIGQLBHUVhDRd2IGhz2wET1Mw-4vzQqSbZGyMSSy9qNbRly71hQsejebGTiUa6f5GiVWy2u81YJvLLxXVAqENUqDMPCaesGlwMtIJzxmjp8QMYQbtSogAAAA&shmds=v1_AdeF8KjWKbp9XWrr0eQkif6vg-UAVCUT5YRKGpOocDFN-cLUrA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=qCnJB79MZhzXeGVKAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "description": "THE ROLE: Software Development Engineer in Test\n\nWe’re looking for…\n\nAs SDET I, you will play a key role in ensuring the quality and reliability of our e-commerce platform. You will work closely with software engineers, product managers, and QA professionals to develop automated tests, enhance testing frameworks, and contribute to continuous integration and deployment processes. This is an exciting opportunity for someone early in their career to grow their technical skills and gain hands-on experience in an agile e-commerce environment.\n\nWhat You’ll Do:\n• Develop, maintain, and execute automated test scripts for web, apps (iOS & Android) and API testing.\n• Collaborate with software engineers to improve testability, code quality, and automation coverage.\n• Assist in designing and implementing test frameworks to support scalable automation.\n• Conduct functional, regression, and performance testing as part of the software development lifecycle.\n• Work with CI/CD pipelines to ensure smooth and reliable software deployments.\n• Identify and document defects, working closely with developers to ensure timely resolution.\n• Contribute to test documentation, including test plans, test cases, and test reports.\n\nAbout You\n\nAt Rue Gilt Groupe, diversity enriches our passion, collaboration, kindness and innovation. We’re committed to fostering an inclusive environment where every Associate is empowered to learn, grow and bring their full self to work. Even if you don't check off every qualification in the job description, that's okay. We encourage you to apply to any role that excites you and sparks delight! We can't wait to learn more about you.\n• 1+ year of experience in software development and/or testing, preferably in an SDET or QA automation role.\n• Hands-on experience with at least one test automation framework (e.g. Cypress, Playwright, WebdriverIO, Selenium, JUnit, TestNG).\n• Knowledge of programming languages such as JavaScript and Python.\n• Familiarity with version control systems like Git.\n• Understanding of software development and testing methodologies, including Agile.\n• Strong analytical and problem-solving skills with attention to detail.\n• Excellent communication and collaboration skills.\n\nNice-to-Have Skills\n• Familiarity with CI/CD tools (e.g., Jenkins, GitHub Actions, AWS Code-* products).\n• Familiarity with API testing tools (e.g., Postman, RestAssured).\n• Experience with performance testing tools (e.g. k6, Gatling).\n• Exposure to cloud platforms (AWS).\n• Basic understanding of SQL and database testing\n• ISTQB certification or other relevant test automation training.\n\nExpected Base Salary Range: €35,000 - €45,000\n\nRue Gilt Groupe is committed to providing Associates with equal pay for equal work and carefully considers a wide range of compensation factors, including but not limited to, prior experience, education, certification(s), license(s), skills and expertise, location, internal equity, and other factors that are job related and consistent with business need. Our goal is to support, reward and compensate the entire individual. Depending on role eligibility, your offer may also include bonus/commission, stock options, 401(k) participation & match, paid time off, medical, dental, vision and basic life insurance. Therefore, final offer amounts may vary from the amount stated.\n\n#LI-Hybrid\n\nABOUT US:\n\nRue Gilt Groupe is a leading off-price e-commerce portfolio company, connecting the next-generation shopper to world-class brands. We’ve defined the online treasure hunt through our daily sale events allowing a large, loyal member base to discover over 5,000 premium and luxury brands at prices up to 70% off full-price retail.\n\nRue Gilt Groupe operates three complementary sites – Rue La La, Gilt, and ShopSimon.\n\nOur vision at RGG is to spark delight through daily discovery – we make shopping an occasion to celebrate. At the forefront of fashion and technology, we’re also in the business of sparking delight for our Associates. We inspire each other, our Members, and ourselves to push past the expected – every day. Our culture is rooted in our values and together we work to demonstrate being Kind, Passionate, Collaborative, Innovative, Tenacious and Empowered.",
+      "apply_options": [
+        {
+          "title": "Rue Gilt Groupe",
+          "link": "https://careers.ruegiltgroupe.com/jobs/6681602/software-development-engineer-in-test/?gh_jid=6681602&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "SiriusXM Careers",
+          "link": "https://careers.siriusxm.com/careers/jobs/16282?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://ie.indeed.com/viewjob?jk=40a34b71ee914fc4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/software-development-engineer-test/4357360?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://ie.linkedin.com/jobs/view/software-development-engineer-in-test-ii-at-siriusxm-4138506860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Welcome To The Jungle | Login",
+          "link": "https://app.welcometothejungle.com/jobs/rqHVx_yt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jooble",
+          "link": "https://ie.jooble.org/jdp/-5445937154870277343?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://ie.bebee.com/job/bfea782763d1bc06b67216ca4f32b5a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBEZXZlbG9wbWVudCBFbmdpbmVlciBpbiBUZXN0IiwiY29tcGFueV9uYW1lIjoiUnVlIEdpbHQgR3JvdXBlIiwiYWRkcmVzc19jaXR5IjoiRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJxQ25KQjc5TVpoelhlR1ZLQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJVlEyOTFiblI1SUVSMVlteHBiaXhKY21Wc1lXNWsiLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "Staff Software Engineer [Dublin]",
+      "company_name": "Playstation",
+      "location": "Dublin, Ireland",
+      "via": "ShowbizJobs",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=yR6Hv097cCBtYupiAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_yWNMQrCQBAAsc0TLGRr0ZwIIphWEa2ElCJhL24uJ-duuD0xfsT3GrWZbmay9yhblwmbBkpp0hMjwY6dZ6II5-3DBs8XmMNRLChhrFsQhr2ICzQu2pQ63RijGnKnCZOv81ruRpis9OYmVr-otB26XcBE1XK16POO3XRyCvj6OUPQM_xfMzhECsjXD1SrKtSZAAAA&shmds=v1_AdeF8Ki9hlZt4gnMV-oZIQKTR4eE_Pd7D_m2Fkilxf536n9YpQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=yR6Hv097cCBtYupiAAAAAA%3D%3D",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "description": "PlayStation isn't just the Best Place to Play - it's also the Best Place to Work. Today, we're recognized as a global leader in entertainment producing The PlayStation family of products and services including PlayStation®5, PlayStation®4, PlayStation®VR, PlayStation®Plus, acclaimed PlayStation software titles from PlayStation Studios, and more.\n\nPlayStation also strives to create an inclusive environment that empowers employees and embraces diversity. We welcome and encourage everyone who has a passion and curiosity for innovation, technology, and play to explore our open positions and join our growing global team.\n\nThe PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Group Corporation.\n\nSony Interactive Entertainment is searching for experienced Full Stack Software Engineers to join our team and contribute to the development of in-house applications. This role involves creating seamless and secure solutions and ensuring delivery of exceptional user experiences. As a full-stack developer, you will work across the stack, contributing to both the front-end and back-end architecture and implementation. This is an opportunity to participate in a fun, demanding, fast-paced environment for individuals who thrive on new challenges and creative solutions.\n\nWhat you'll be doing:\n\n• Architect, design and develop RESTful API Endpoints, ensuring high performance, scalability and maintainability.\n\n• Collaborate with other Front-End Engineers and develop dynamic, responsive and user-friendly web applications.\n\n• Define Data Models and database schemas and manage relational databases or NoSQL databases ensuring data integrity and performance.\n\n• Create and maintain documentation of application design, configuration and maintenance.\n\n• Provide accurate timelines for specific tasks assigned.\n\n• Participate in scheduled on-call rotation and respond to emergencies.\n\n• Provide mentorship for junior members on the team\n\nWhat we're looking for:\n\n• 8+ years professional experience working with medium/large complex code bases\n\n• Experience in Full Stack development\n\n• Experience with one or more of the following programming languages: Java, Go, or Python\n\n• Experience in REST API design and implementation\n\n• Highly Proficient in HTML, CSS, the JavaScript ecosystem and familiarity with popular frameworks like React, Angular, Ember, Jest, Babel, and TypeScript\n\n• Knowledgeable in UI/UX design principles\n\n• Strong communication and interpersonal skills\n\n• Desire to collaborate and to develop strong and positive team relationships\n\n• Attention to detail, organisational skills, a strong work ethic and the ability to work independently.\n\nNice to have:\n\n• Bachelor's degree in Computer Science or related field, or at least three years of proven experience in lieu of a degree\n\n• Demonstrated ability to write clean, maintainable, and well-documented code.\n\n• Database management, cloud technologies (AWS), and containerisation (Docker, Kubernetes)\n\n• Knowledge of React best practices\n\n• Familiarity with DevOps tools and practices, including CI/CD pipelines\n\n• Automated deployment tools (e.g. Terraform, Ansible, Jenkins)\n\n• Excellent problem-solving skills and attention to detail\n\n• Experience with Agile development methodologies such as SAFe, Scrum\n\nEqual Opportunity Statement:\n\nSony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to gender (including gender identity, gender expression and gender reassignment), race (including colour, nationality, ethnic or national origin), religion or belief, marital or civil partnership status, disability, age, sexual orientation, pregnancy, maternity or parental status, trade union membership or membership in any other legally protected category.\n\nWe strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.\n\nPlayStation is a Fair Chance employer and qualified applicants with arrest and conviction records will be considered for employment.\n\nNote: Posting is subject to change so please refer to career site for latest availability (SBJ-G337).",
+      "apply_options": [
+        {
+          "title": "ShowbizJobs",
+          "link": "https://www.showbizjobs.com/jobs/playstation-staff-software-engineer-in-dublin/jid-36j4jn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobrapido.com",
+          "link": "https://ie.jobrapido.com/jobpreview/5279594621691756544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Golang Job",
+          "link": "https://golangjob.xyz/job/2GmIq6TOMb4OvyKjuA6B56YeJu9/Staff%20Software%20Engineer%20(Elixir)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTdGFmZiBTb2Z0d2FyZSBFbmdpbmVlciBbRHVibGluXSIsImNvbXBhbnlfbmFtZSI6IlBsYXlzdGF0aW9uIiwiYWRkcmVzc19jaXR5IjoiRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiJ5UjZIdjA5N2NDQnRZdXBpQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJVlEyOTFiblI1SUVSMVlteHBiaXhKY21Wc1lXNWsiLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "Full Stack Software Engineer II",
+      "company_name": "Toast",
+      "location": "Dublin, Ireland",
+      "via": "Toast Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=vL7h4H8_3kvWEkANAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMOw7CMAwAULH2BIjJM4IEIcEAKx-VtexVEkwaCHYVu6K34MrA8sZXfSbV9jTkDI268ISG7_p2BeFIMRFigbqGJVzYg6AroQMmODPHjLN9p9rLzlqRbKKo0xRM4JdlQs-jfbCXP610v7HPTrFdb1aj6SnOp1d2opAIDoPPiRZQF8yObl84O97CkgAAAA&shmds=v1_AdeF8KgNTrtt6KbngZZWFy4xV4jDISti-WHsBY51sLzGbXBfmg&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=vL7h4H8_3kvWEkANAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/683875d6d2d7409b8dc9e7a8/images/c0974cfddcc95a1e61364aae3207d215dabde26114f59700cd301b3f8525225e.gif",
+      "extensions": [
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "description": "Toast is driven by building the restaurant platform that helps restaurants adapt, take control, and get back to what they do best: building the businesses they love.\n\nToast connects employees, operations, and guests on a reliable, easy-to-use platform so restaurateurs can stay one step ahead of a rapidly evolving hospitality market.\nOur mission is simple: empower restaurants to thrive. From online ordering to labor and inventory management, Toast provides tools to streamline restaurant operations.\n\nThe Toast Web team plays a key role in shaping how restaurants interact with these tools—crafting the web-based experiences that power key workflows across the platform.\nWe’re looking for a Software Engineer II who is passionate about front-end development with a solid foundation in back-end systems. You’ll join a team that owns core parts of the customer-facing web experience, collaborating with Design, Product, and Engineering teams to build scalable, user-friendly features that make life easier for restaurant staff around the globe.\n\nAbout this roll* (Responsibilities)\n• Build beautiful and performant web interfaces used daily by restaurants worldwide\n• Contribute across the stack, with a strong focus on front-end work (React, TypeScript) and occasional backend tasks (Java/Kotlin)\n• Collaborate closely with Product, Design, and QA to deliver thoughtful, accessible user experiences\n• Help maintain and extend the team’s codebases with an emphasis on code quality and reliability\n• Participate in planning, code reviews, and delivery of features from idea to production\n• Work with other Toast teams to integrate services and drive shared outcomes\n\nDo you have the right ingredients*? (Requirements)\n• 3+ years of professional experience in software development, ideally in web-based applications\n• Proficiency with modern front-end frameworks (React preferred) and TypeScript\n• Familiarity with back-end development in Java or Kotlin\n• A passion for usability, accessibility, and delivering real value to users\n• Ability to work in an agile, fast-moving environment with a team mindset\n\nOur Spread* of Total Rewards\nWe strive to provide competitive compensation and benefits programs that help to attract, retain, and motivate the best and brightest people in our industry. Our total rewards package goes beyond great earnings potential and provides the means to a healthy lifestyle with the flexibility to meet Toasters’ changing needs. Learn more about our benefits at https://careers.toasttab.com/toast-benefits.\n• Bread puns encouraged but not required\n\nDiversity, Equity, and Inclusion is Baked into our Recipe for Success\n\nAt Toast, our employees are our secret ingredient—when they thrive, we thrive. The restaurant industry is one of the most diverse, and we embrace that diversity with authenticity, inclusivity, respect, and humility. By embedding these principles into our culture and design, we create equitable opportunities for all and raise the bar in delivering exceptional experiences.\n\nWe Thrive Together\n\nWe embrace a hybrid work model that fosters in-person collaboration while valuing individual needs. Our goal is to build a strong culture of connection as we work together to empower the restaurant community. To learn more about how we work globally and regionally, check out: https://careers.toasttab.com/locations-toast.\n\nApply today!\n\nToast is committed to creating an accessible and inclusive hiring process. As part of this commitment, we strive to provide reasonable accommodations for persons with disabilities to enable them to access the hiring process. If you need an accommodation to access the job application or interview process, please contact candidateaccommodations@toasttab.com.\n\n------\n\nFor roles in the United States, It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.",
+      "apply_options": [
+        {
+          "title": "Toast Careers",
+          "link": "https://careers.toasttab.com/jobs/full-stack-software-engineer-ii-dublin-county-dublin-ireland?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://ie.indeed.com/viewjob?jk=96731608c054646c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/full-stack-software-engineer-ii/4613895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Dublin",
+          "link": "https://builtindublin.ie/job/full-stack-software-engineer-ii/4613895?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://ie.bebee.com/job/34e15193ac1b0e43ab1638e6b012e417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Taro",
+          "link": "https://www.jointaro.com/jobs/toast/full-stack-software-engineer-ii/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Startup Jobs",
+          "link": "https://startup.jobs/full-stack-software-engineer-ii-toast-6571544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://ie.linkedin.com/jobs/view/full-stack-software-engineer-ii-at-toast-4234242276?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIFNvZnR3YXJlIEVuZ2luZWVyIElJIiwiY29tcGFueV9uYW1lIjoiVG9hc3QiLCJhZGRyZXNzX2NpdHkiOiJEdWJsaW4sIElyZWxhbmQiLCJodGlkb2NpZCI6InZMN2g0SDhfM2t2V0VrQU5BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lWUTI5MWJuUjVJRVIxWW14cGJpeEpjbVZzWVc1ayIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "Director, Software Engineering",
+      "company_name": "Rapid7",
+      "location": "Dublin, Ireland",
+      "via": "Rapid7 Careers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=uJB1IIL1jh10buZWAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXMsQrCMBAAUFz7BzrdLLURoQh2rYiO-gElSc_0JN6F5MT-hb-sLm981WdRtT1l9Cq5hpvc9W0zwpEDMWImDrCBizgoaLOfQBhOIiHiqptUUzkYU0psQlGr5BsvTyOMTmbzEFf-DGX6jSlaxWHXbucmcVgvrzbRuAdi6F8uEtdwzhgtj19kvjJLkgAAAA&shmds=v1_AdeF8Kizq1IH6Fq6e9mU5wmsByOYMYDWNerVV-LogcA1rdddmA&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=uJB1IIL1jh10buZWAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/683875d6d2d7409b8dc9e7a8/images/c0974cfddcc95a1e61709ca5bbc8b450eee5a0778b5c3bc0c104d66f16ea0f39.gif",
+      "extensions": [
+        "30 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "30 days ago",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "description": "Director, Software Engineering, Detection & Response\n\nCyber threats are becoming more sophisticated, frequent, and damaging, challenging organizations to stay ahead of attackers in an increasingly complex digital landscape. Detection and Response is one of the fastest-evolving and most critical areas within cybersecurity, where real-time threat detection, rapid investigation, and automated response are essential to reducing risk and minimizing impact.\n\nThis role offers the opportunity to lead mission-critical engineering teams focused on the technical heart of Rapid7’s Detection and Response platform: Log Search (our proprietary search and indexing system), the network sensor engineering team, and our Site Reliability Engineering function for Detection & Response. Success in this role will require deep technical expertise in high-scale distributed systems, search technologies, networking, observability, and cloud-native reliability practices, combined with proven leadership experience in scaling teams, aligning engineering and product strategy, and driving operational and cultural excellence across a complex organization.\n\nIf you are passionate about building and scaling foundational systems under real-world operational pressure, and you are excited about leading global, high-performing teams through the challenges of real-time threat detection at scale, driving technical innovation, and fostering operational and organizational resilience, we would love to meet you.\n\nAbout the Role:\n\nIn this role, you will:\n• Develop and maintain technical execution plans aligned to roadmap goals, driving high standards for delivery quality, resilience, and performance.\n• Lead engineering teams responsible for Log Search (Rapid7's proprietary search and indexing technology), network sensor engineering, and site reliability operations.\n• Drive technical excellence in search architecture, distributed systems, networking, observability, and operational tooling.\n• Partner closely with Product Management, UX, and Customer Success to align engineering priorities with customer needs and product vision.\n• Ensure scalable, cloud-native development, testing, and deployment processes that support the platform’s growth and resilience.\n• Invest in the growth and development of technical leadership within the team, building a strong, thriving engineering culture.\n• Engage with customers and internal stakeholders to gather feedback, remove friction, and drive improvements across the platform.\n• Champion operational excellence initiatives including system health, availability, disaster recovery, and incident management practices.\n• Collaborate cross-functionally to improve product quality, customer experience, and engineering scalability.\n\nThe skills you’ll bring include:\n• Technical Depth: Strong computer science fundamentals, particularly in areas such as high performance data processing, search, storage, data indexing, distributed systems, network protocols, telemetry, and cloud architecture.\n• Domain Expertise: Experience building and operating complex backend systems, large-scale data stores, network telemetry pipelines, or reliability engineering frameworks.\n• Leadership: Track record of growing and leading high-performing, geographically distributed technical teams across multiple disciplines.\n• Collaboration: Ability to work cross-functionally and influence Product, Support, Customer Success, and Strategy teams to drive alignment around customer outcomes.\n• Customer Focus: History of engaging directly with customers and translating feedback into product and operational improvements.\n• Results-Oriented: Proven ability to deliver high-quality, scalable platforms in fast-paced, continuous deployment environments.\n• Strategic Thinking: Strong facility for recognizing emerging trends in cloud security and detection and response, and evolving technical strategies to match.\n\nWhat Else?\n• 8+ years of engineering leadership experience, including experience managing complex platform technologies at scale.\n• Prior experience leading projects featuring high performance computing, search technologies, network data ingestion, or SRE teams strongly preferred.\n• Track record of retaining, developing, motivating, and mentoring highly effective technical teams.\n• Deep commitment to operational excellence, system resilience, and proactive improvement initiatives.\n• Ability to drive clarity, quality, and innovation across diverse engineering teams.\n\nWe know that the best ideas and solutions come from multi-dimensional teams. That’s because these teams reflect a variety of backgrounds and professional experiences. If you are excited about this role and feel your experience can make an impact, please don’t be shy - apply today.\n\nAbout Rapid7\n\nAt Rapid7, we are on a mission to create a secure digital world for our customers, our industry, and our communities. We do this by embracing tenacity, passion, and collaboration to challenge what’s possible and drive extraordinary impact.\n\nHere, we’re building a dynamic workplace where everyone can have the career experience of a lifetime. We challenge ourselves to grow to our full potential. We learn from our missteps and celebrate our victories. We come to work every day to push boundaries in cybersecurity and keep our 11,000+ global customers ahead of whatever’s next.\n\nJoin us and bring your unique experiences and perspectives to tackle some of the world’s biggest security challenges.",
+      "apply_options": [
+        {
+          "title": "Rapid7 Careers",
+          "link": "https://careers.rapid7.com/jobs/director-software-engineering-dublin-ireland?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Indeed",
+          "link": "https://ie.indeed.com/viewjob?jk=9db2a274dccd4171&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Workday",
+          "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Director--Software-Engineering_R-241676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In Dublin",
+          "link": "https://builtindublin.ie/job/director-software-engineering/4069798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://ie.linkedin.com/jobs/view/director-software-engineering-at-sony-interactive-entertainment-4210196865?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "GameJobs.co",
+          "link": "https://gamejobs.co/Director-Software-Engineering-at-Sony-Playstation-2751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://ie.bebee.com/job/7a7fd24201dd65492e50c6252e2ad6d6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://eu.experteer.com/career/view-jobs/director-software-engineering-dublin-tipperary-irland-51347269?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEaXJlY3RvciwgU29mdHdhcmUgRW5naW5lZXJpbmciLCJjb21wYW55X25hbWUiOiJSYXBpZDciLCJhZGRyZXNzX2NpdHkiOiJEdWJsaW4sIElyZWxhbmQiLCJodGlkb2NpZCI6InVKQjFJSUwxamgxMGJ1WldBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lWUTI5MWJuUjVJRVIxWW14cGJpeEpjbVZzWVc1ayIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "Software Engineer III, Network Insights",
+      "company_name": "Google",
+      "location": "County Dublin, Ireland",
+      "via": "Outscal",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=2y07Jvmi0g1ce5cjAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_y3NsQrCMBCAYVz7CE43S21EcFFwUZE4uPgAJa1nEo13JXel9Wl8VRVc_vH7i_ek2F74poPLCAfykRAzWGtLOKMOnB9gSaIPKjCHEzcg6HIbgAmOzD7hdBNUO1kbI5IqL-o0tlXLT8OEDY_mzo38Ukv4TrrkFOvlajFWHfnZH4FIsOOe9AX7vkmRSrAZk6PrB1RRHLyiAAAA&shmds=v1_AdeF8KjiLR9JW0yVTwzh5Lg0s3Qdivnl-Ct276cY1dUVfyEi6w&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=2y07Jvmi0g1ce5cjAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/683875d6d2d7409b8dc9e7a8/images/c0974cfddcc95a1ef55adb4d8a0feed42cac0a864df6f3bfef32b589224b307b.gif",
+      "extensions": [
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "schedule_type": "Full-time"
+      },
+      "description": "Summary\n\nGoogle is seeking a Software Engineer III for its Network Insights team in Dublin, Ireland. This role requires a Bachelor's degree or equivalent experience and 2 years of software development experience (or 1 year with an advanced degree), along with 2 years of experience with data structures and algorithms. Responsibilities include writing and reviewing code, participating in design reviews, contributing to documentation, and troubleshooting system issues. The ideal candidate will have experience with languages like Go, C++, or Python, data analysis, and Google frameworks like Boq and Pod. The work involves developing and maintaining systems critical to Google's operations, requiring versatility, leadership, and a willingness to tackle full-stack challenges.\n\nMust Have\n• Bachelor's degree or equivalent\n• 2 years software development experience\n• 2 years data structures/algorithms experience\n• Code writing and review\n• System issue troubleshooting\n\nGood To Have\n• Go, C++, or Python experience\n• Data analysis and pattern identification\n• Experience with Google frameworks (Boq, Pod)\n• Test writing, error handling, concurrency\n\nMinimum qualifications:\n• Bachelor’s degree or equivalent practical experience.\n• 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.\n• 2 years of experience with data structures or algorithms.\n\nPreferred qualifications:\n• Experience with software engineering in one or more programming languages (e.g., Go, C++, or Python).\n• Experience in analyzing data, identifying patterns and trends, and turning them into actionable recommendations.\n• Experience with processes such as writing good tests, handling errors, dealing with concurrency.\n• Experience with common Google frameworks such as Boq and Pod.\n\nAbout the job\n\nGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.\n\nGoogle Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.\n\nResponsibilities\n• Write product or system development code.\n• Participate in design reviews with peers and stakeholders to decide on available technologies.\n• Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).\n• Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.\n• Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.",
+      "apply_options": [
+        {
+          "title": "Outscal",
+          "link": "https://outscal.com/job/software-engineer-iii-network-insights-at-google-in-dublin-county-dublin-ireland-1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciBJSUksIE5ldHdvcmsgSW5zaWdodHMiLCJjb21wYW55X25hbWUiOiJHb29nbGUiLCJhZGRyZXNzX2NpdHkiOiJDb3VudHkgRHVibGluLCBJcmVsYW5kIiwiaHRpZG9jaWQiOiIyeTA3SnZtaTBnMWNlNWNqQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJVlEyOTFiblI1SUVSMVlteHBiaXhKY21Wc1lXNWsiLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "Software Engineer, Distributed Databases",
+      "company_name": "eBay",
+      "location": "Dublin, Ireland",
+      "via": "EBay Jobs - EBay Inc.",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=HgwWBQBk1L9ltRvVAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_xXNsQrCQAwAUFz7A4JTZqk9EVx0EKQiuvoBJdfG68mZlEuK9Uv8XXV56ys-s-Jwk7u9MBOcOEQmyiXUUS1HPxp1UKOhRyWFFVzFgxLmtgdhOIuERIt9bzbozjnVVAU1tNhWrTydMHmZ3EO8_mm0_y1DQqNms11P1cBhOacjviEy1KNPkUu4ZErI3RcSysoqmgAAAA&shmds=v1_AdeF8KirR9C4TDetPySY97_R9T8_Sb_WGaNymPXt7vLifE5_1Q&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=HgwWBQBk1L9ltRvVAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/683875d6d2d7409b8dc9e7a8/images/c0974cfddcc95a1e3a339947a963cf3b7d1b1e9c05f401035090967270e18bf1.gif",
+      "extensions": [
+        "15 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "15 days ago",
+        "schedule_type": "Full-time"
+      },
+      "description": "At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.\n\nOur customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.\n\nJoin a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.\n\nAbout the team and the role:\n\neBay is seeking a Senior Engineer for their Cloud Databases and Storage organization, that builds and runs petabyte scale core data platform that powers large scale database, storage, caching and media infrastructure. This position will have the opportunity to architect, build and operate the next generation distributed database and storage platform that powers some of the most critical systems powering eBay’s global ecommerce business. You will be responsible for scaling eBay’s core data infrastructure by working closely with other engineers, customers, business partners, and product managers.\n\nWhat you will accomplish:\n\nYou will be building and managing massively scalable database and storage systems for eBay\n• As a self-motivated and enthusiastic technical leader of our team, you will collaborate with extremely inquisitive and proficient peers leading and designing data infrastructure using your strong background in distributed systems, storage and large-scale database systems\n• You will work in an agile environment with a focus on problem solving and engineering precision. As a technical leader you are expected to assess technology problems, design optimal solutions and drive implementation to meet the business expectations\n• You will collaborate closely with peers Architects, Engineering leaders and Product Managers to develop innovative solutions that meet functional and non-functional standards and expectations\n• As a senior technical leader, you will guide junior and senior engineers in your team and also across other cloud teams in building scalable, high speed, distributed systems and advocate for meeting the design and quality standards\n• You will contribute to the design, development, testing, release, triage, bug fix, documentation and rest of the cycles in product development and maintenance\n• As a key influencer of the organization, you should bring in new ideas to adapt to technological developments and industry best practices that will create lasting impact for eBay and its customers\n\nWhat you will bring:\n• Bachelor’s degree in Computer Science plus 8+ years of experience or MS in Computer Science plus 6+ years of hands-on experience in building large-scale distributed systems\n• Excellent understanding of computer science fundamentals, data structures and algorithms\n• Experience in architecting, designing and developing large-scale, multi-tiered, distributed software systems, storage and databases\n• Extensive hands-on experience and expertise in Object-Oriented Design, Distributed Programming, and: C++, Java and various database systems (NoSQL and relational) at scale\n• Drive architecture discussions, produce well-documented design docs, and participate in design and code reviews\n• Ensure code quality and maintainability by evolving architecture and tech stack, refactoring, standards and improving build and test systems\n• Share engineering support, release, and on-call responsibilities for an always-on 24x7 site\n\nPlease see the Talent Privacy Notice for information regarding how eBay handles your personal data collected when you use the eBay Careers website or apply for a job with eBay.\n\neBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.\n\nThe eBay Jobs website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies. Visit our Privacy Center for more information.",
+      "apply_options": [
+        {
+          "title": "EBay Jobs - EBay Inc.",
+          "link": "https://jobs.ebayinc.com/us/en/job/R0067514/Software-Engineer-Distributed-Databases?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Built In",
+          "link": "https://builtin.com/job/software-engineer-distributed-databases/6245761?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Next Level Jobs EU",
+          "link": "https://nextleveljobs.eu/companies/ebay/jobs/682648bc95fe867bdfb79aa3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "BeBee",
+          "link": "https://ie.bebee.com/job/32a86e178e25fb4f5e5d9a747102dd80?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "LinkedIn",
+          "link": "https://ie.linkedin.com/jobs/view/software-engineer-distributed-databases-at-ebay-4229039466?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Experteer",
+          "link": "https://eu.experteer.com/career/view-jobs/software-engineer-distributed-databases-dublin-tipperary-irland-51679754?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Diversifying.io",
+          "link": "https://www.diversifying.io/jobs/396019605-software-engineer-distributed-databases-at-ebay?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Expertini | Ireland Jobs Expertini",
+          "link": "https://ie.expertini.com/jobs/job/software-engineer-distributed-databases-dublin-ebay-inc-43-746095/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTb2Z0d2FyZSBFbmdpbmVlciwgRGlzdHJpYnV0ZWQgRGF0YWJhc2VzIiwiY29tcGFueV9uYW1lIjoiZUJheSIsImFkZHJlc3NfY2l0eSI6IkR1YmxpbiwgSXJlbGFuZCIsImh0aWRvY2lkIjoiSGd3V0JRQmsxTDlsdFJ2VkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVZRMjkxYm5SNUlFUjFZbXhwYml4SmNtVnNZVzVrIiwiaGwiOiJlbiJ9"
+    },
+    {
+      "title": "Senior Software Engineer / Software Engineer - Backend",
+      "company_name": "Microsoft Corporation",
+      "location": "Dublin, Ireland",
+      "via": "StemCareers",
+      "share_link": "https://www.google.com/search?ibp=htl;jobs&q=Software+Engineer&htidocid=fWvMw4NJlNZVkSdGAAAAAA%3D%3D&hl=en-US&shndl=37&shmd=H4sIAAAAAAAA_22NTQrCMBCFcdsjuJqliDYiuNGdP4hCVz1ASdIxjcaZMInYk3k-497N4_Hg-171mVRNi-RZoOVbfmtBOJHzhCig_mxL2Gv7QOpLu7KBhFrsAExwZnYBp7sh55i2SqUUapeyzt7Wlp-KCQ2P6s4m_aJLQxHHoDN2681qrCO5-azxVjiVVziwRJZCF7UnOL5M8LSAi2DQ1H8B6iYa4LkAAAA&shmds=v1_AdeF8KiHs0owkGwlLAIuefMG2oNJz8lUcvvrEzogzp5NzBIJiQ&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Software+Engineer&htidocid=fWvMw4NJlNZVkSdGAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/683875d6d2d7409b8dc9e7a8/images/c0974cfddcc95a1e9e4ec48817e4670e8383a664949d720710ae84b8a57d9c94.gif",
+      "extensions": [
+        "28 days ago",
+        "Full-time",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "28 days ago",
+        "schedule_type": "Full-time",
+        "qualifications": "No degree mentioned"
+      },
+      "description": "Please note: This job posting covers hiring for both Senior Software Engineer and Mid-level Software Engineer positions.\n\nMicrosoft is looking for Backend Software Engineers to come work on a range of cutting-edge technologies and platforms that power these mission critical services. Our Engineering teams in Ireland work on the most challenging engineering problems, allowing us to solve issues that nobody has solved before. Serving billions of users, our teams run services that are critical to the day-to-day experience of every Microsoft Cloud user.\n\nAs a Software Engineer at Microsoft Ireland, you will develop solutions used by billions of people around the world, with teams working across our Cloud & AI, Microsoft AI, Experience & Devices, Security, and Gaming organisations and contributing to products like Azure, Microsoft 365, Dynamics 365, Microsoft Entra, Teams, OneDrive & SharePoint, Office, and Mesh.  \n\nWe have multiple opportunities available across our EDC (European Development Centre) and are looking for candidates who are curious to learn and grow with Microsoft Ireland. \n\nMicrosoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.\n\nYou can learn more about our Ireland  EDC site here:  \n\nWorking in our Ireland Engineering Development Centre",
+      "apply_options": [
+        {
+          "title": "StemCareers",
+          "link": "https://stemcareers.com/posting/7307596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Taro",
+          "link": "https://www.jointaro.com/jobs/microsoft/senior-software-engineer-software-engineer-backend/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "DEjobs.org",
+          "link": "https://dejobs.org/5034BD4B304F41B5942E693B1CC2D97723/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs And Careers In Artificial Intelligence (A.I.)",
+          "link": "https://aicareers.com/posting/7307596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Expertini | Ireland Jobs Expertini",
+          "link": "https://ie.expertini.com/jobs/job/senior-software-engineer-software-engineer-backend-dublin-microsoft-corporation-microsoftcorp8-1821494dublinireland/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "European Jobs",
+          "link": "https://searcheuropeanjobs.com/job/senior-software-engineer-softwar-dublin-microsoft-corporatio-7749886359/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgU29mdHdhcmUgRW5naW5lZXIgLyBTb2Z0d2FyZSBFbmdpbmVlciAtIEJhY2tlbmQiLCJjb21wYW55X25hbWUiOiJNaWNyb3NvZnQgQ29ycG9yYXRpb24iLCJhZGRyZXNzX2NpdHkiOiJEdWJsaW4sIElyZWxhbmQiLCJodGlkb2NpZCI6ImZXdk13NE5KbE5aVmtTZEdBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lWUTI5MWJuUjVJRVIxWW14cGJpeEpjbVZzWVc1ayIsImhsIjoiZW4ifQ=="
+    }
+  ],
+  "serpapi_pagination": {
+    "next_page_token": "eyJmYyI6IkVxSUNDdUlCUVV4cmRGOTJTR1ZYYkdaTWRIaEJiRzlvVWxaNFNIVjRkME5SV20wNU1tOTFlRWxsWmxGbE5YWTBMVTFqTVdNdFJtOWZlbVIzY0haek9VMDFja000YkRoME1GQldOWEpwVURCVVJEWkhZbFJrZUhCM1JuSTJSbVZDYVhGM05IVTFWbVpsT0RKZlFVWjNOazV5VkVSdVlYRkRWWFJZTWpsRE9GUktPVEJ0UkdwQ1N6WlllR1JNVFVoRFRURlpaME5hWm1KMFZHMVFaa1p3VVVzNGEwZFNSM3BNUW5CME4yZE9Ta2RaZEU1cFRqQk1SbVZPTUhGNmRWQktSamRzVUhveE5FbFZibWt5Y2taSk5sSldXR0pXZFZkNFVrWnhOREZKVG5WYWREZGxOVFF0VVJJWE1UTlZOR0ZMYW1sSVlqSXRjRGcwVUhGeU4yTjFRVmthSWtGR1RVRkhSM0JDTjNaNmFGVjBVbmxCZDJOSWVWRm9YMWQwTW5RNFEzWm1VMUUiLCJmY3YiOiIzIn0=",
+    "next": "https://serpapi.com/search.json?engine=google_jobs&google_domain=google.com&hl=en&location=Dublin%2C+Ireland&next_page_token=eyJmYyI6IkVxSUNDdUlCUVV4cmRGOTJTR1ZYYkdaTWRIaEJiRzlvVWxaNFNIVjRkME5SV20wNU1tOTFlRWxsWmxGbE5YWTBMVTFqTVdNdFJtOWZlbVIzY0haek9VMDFja000YkRoME1GQldOWEpwVURCVVJEWkhZbFJrZUhCM1JuSTJSbVZDYVhGM05IVTFWbVpsT0RKZlFVWjNOazV5VkVSdVlYRkRWWFJZTWpsRE9GUktPVEJ0UkdwQ1N6WlllR1JNVFVoRFRURlpaME5hWm1KMFZHMVFaa1p3VVVzNGEwZFNSM3BNUW5CME4yZE9Ta2RaZEU1cFRqQk1SbVZPTUhGNmRWQktSamRzVUhveE5FbFZibWt5Y2taSk5sSldXR0pXZFZkNFVrWnhOREZKVG5WYWREZGxOVFF0VVJJWE1UTlZOR0ZMYW1sSVlqSXRjRGcwVUhGeU4yTjFRVmthSWtGR1RVRkhSM0JDTjNaNmFGVjBVbmxCZDJOSWVWRm9YMWQwTW5RNFEzWm1VMUUiLCJmY3YiOiIzIn0%3D&q=Software+Engineer"
+  }
+}
